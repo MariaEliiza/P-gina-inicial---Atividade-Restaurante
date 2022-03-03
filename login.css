@@ -1,0 +1,232 @@
+
+body {
+    padding: 0px;
+    width: 20px;
+    background-image: url("imagemdefundo.jfif");
+    background-size: cover;
+  
+}
+
+.ladoesq {
+
+    background-color: #0a0c09;
+    width:500px;
+    height:500px;
+    border: 1px;
+    border-radius: 60px;
+    background-color: #71cf62;
+    top: 115px;
+    left: 400px;
+    position: absolute;
+
+    
+}
+
+.botaoesquerdo {
+
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 500px;
+    height: 500px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 255, 0.39);
+    font-size: 14.5px;
+    
+}
+
+#botaoesquerdodois {
+
+    margin-left: 50px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 0, 0, 0.705);
+    position: inherit;
+
+   
+}
+
+h2 {
+
+    margin-left: -90px;
+    margin-top: 50px;
+    color: rgb(238, 255, 0);
+    text-shadow: -2px -1px 0.5px rgba(6, 7, 2, 0.747);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: initial;
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+  
+
+}
+
+p {
+    color: rgb(0, 0, 0);
+    margin-left: 16px;
+    margin-top: -25px;
+    font-size: 15.5px;
+    font-family:  "Menlo, Monaco, 'Courier New', monospace";
+  
+  
+
+}
+
+#cadastre2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#0b0f0252; 
+    margin-left: 110px;
+    margin-top: 25px;  
+    width: 160px;
+    height: 37px;
+    font-size: 16.5px;
+
+    
+
+}
+
+.imagemfacebook {
+
+    width: 30px;
+    height: 22px;
+    position:fixed;
+    margin-left: 62px;
+    margin-top: 24px;
+    border: none 900%;
+  
+
+}
+
+.imagemgmail {
+    width: 27px;
+    height: 24px;
+    position: fixed;
+    margin-left: 63px;
+    margin-top: 3px;
+    border: none 900%;
+ 
+
+
+}
+
+.fotopequena {
+
+    width: 90px;
+    height: 60px;
+    margin-left: 145px;
+    margin-top: 9px;
+}
+
+
+input[type=button] {
+    
+    font-size: larger 1000px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-bottom: 2px rgba(205, 250, 5, 0.952);
+    border-radius: 200px;
+    width: 290px;
+    height: 30px;
+    border: none 100px #fff;
+}
+
+
+
+
+
+.lado {
+
+     
+    margin-right: 400px;
+    margin-left: 790px;
+    top: 115px;
+    width:380px;
+    height:500px;
+    border: 1px;
+    border-radius:50px;
+    background-color: rgb(240, 238, 223);
+    position: fixed;
+  
+}
+
+form {
+
+
+    margin-top: -60px;
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+
+.fotoprincipal {
+
+    margin-top: 70px;
+}
+
+
+
+.botão {
+
+    margin-left: 157px;
+    background-color: rgba(158, 157, 157, 0.664);
+    border-radius: 0px;
+    height: 30px;
+    margin-top:30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+
+
+.esqueceusenha {
+
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    margin-top: 23px;
+   margin-left: 40px;
+    font-style: normal;
+ 
+}
+
+.dados {
+
+    border: none;
+    border-bottom: 2px solid #3e8f31;
+    background-color: rgba(206, 206, 206, 0.124);
+    height: 30px;
+    width: 210px;
+    margin-top: 85px;
+    border-radius: 5px;
+    margin-left: 10px;
+    
+    
+}
+
+
+input[type=submit] {
+
+    border: none;
+    background-color: rgba(0, 0, 0, 0.123);
+    font-style: bolder;
+    color: black;
+    cursor: pointer;
+    border-bottom: 2px solid #3d8f31;
+    border-radius: 5px;
+}
+
+
+#fotolado {
+
+    width: 115px;
+    margin-top: 22px;
+    margin-left: 130px;
+    border-radius: 100px;
+}
+ 
+
+
+
